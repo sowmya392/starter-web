@@ -11,3 +11,4 @@ Sample website with plenty of files for demos
 ##Deploy
 
 ##How To Contribute
+pealse fork this repositary
